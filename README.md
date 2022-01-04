@@ -1,6 +1,6 @@
 # (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ Nixkell (◕‿◕✿)
 
-[![CI](https://github.com/pwm/nixkell/workflows/CI/badge.svg)](https://github.com/pwm/nixkell/actions)
+[![CI](https://github.com/kvdos-argonaut/nixkell/workflows/CI/badge.svg)](https://github.com/kvdos-argonaut/nixkell/actions)
 
 Get your Haskell projects up and running with no fuss using Nix.
 
